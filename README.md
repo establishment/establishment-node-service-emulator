@@ -1,4 +1,4 @@
-# Establishment Node Websocket Proxy Server
+# Establishment Node Service Emulator
 [![npm package][npm-badge]][npm-url]
 
 ## Installation
